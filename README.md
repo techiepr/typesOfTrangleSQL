@@ -1,2 +1,2 @@
 # typesOfTrangleSQL
-typesOfTrangleSQL.
+typesOfTrangleSQL
